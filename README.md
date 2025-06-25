@@ -1,4 +1,4 @@
-# 🌫️ SmokeSense - Monitor Inteligente de Gás com ESP8266
+# 🌫️ Detector de Fumaca - Monitor Inteligente de Gás com ESP8266
 
 ## 📌 Sobre o Projeto
 Sistema de detecção de gás/fumaça com alertas inteligentes usando sensor MQ-2 e NodeMCU ESP8266, integrado ao app Blynk para monitoramento remoto.
